@@ -1,0 +1,24 @@
+{
+  "name": "bangkit-capstone-c242-ps451",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AliqVanEstu/Bangkit-Capstone-C242-PS451.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AliqVanEstu/Bangkit-Capstone-C242-PS451/issues"
+  },
+  "homepage": "https://github.com/AliqVanEstu/Bangkit-Capstone-C242-PS451#readme",
+  "dependencies": {
+    "@hapi/hapi": "^21.3.12",
+    "nanoid": "^5.0.9"
+  }
+}
